@@ -1,3 +1,4 @@
+/*Shop*/
 [style*="https://cdn.discordapp.com/app-assets/1096190356233670716/1217623891149586563.jpg"],
 [id="shop-item-1217624148080332820"], 
 [id="shop-item-1217625289681801316"], 
@@ -10,6 +11,7 @@
 [id="shop-item-1217627230818009171"] {
   display: none;
 }
+/*Links*/
 [src*="https://cdn.discordapp.com/avatar-decoration-presets/a_27bbf0b53b1054cf61e9a4c0e8d4027f.png"],
 [src*="https://cdn.discordapp.com/avatar-decoration-presets/a_629689577fa1da2ef0061a5a8c930de1.png"],
 [src*="https://cdn.discordapp.com/avatar-decoration-presets/a_0c0eeb351ae2cf48c6e1eee2cae49d40.png"],
