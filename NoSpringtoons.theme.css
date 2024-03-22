@@ -1,1 +1,3 @@
-@import url('https://raw.githubusercontent.com/DTACat/No-Springtoons/main/src/main.css');
+@import url('https://raw.githubusercontent.com/DTACat/No-Springtoons/main/src/links.css');
+/*Remove line 3 to keep Springtoons in the Discord Shop*/
+@import url('https://raw.githubusercontent.com/DTACat/No-Springtoons/main/src/shop.css');
